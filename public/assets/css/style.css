@@ -1,0 +1,60 @@
+body {
+  background-image: url("../img/burger.jpg");
+  background-size: 100%;
+}
+
+h1 {
+  font-size: 55px;
+}
+
+h2 {
+  font-size: 35px;
+}
+
+h3 {
+  font-size: 25px;
+}
+
+li {
+  padding: 5px;
+  margin: 5px;
+  background: #f5b25a;
+}
+
+
+.form-group {
+  margin-bottom: 5px;
+  font-size: 20px;
+}
+
+.burger-display {
+  background-color: rgb(141, 141, 141);
+  opacity: 0.85;
+  font-weight: bold;
+}
+
+.insert-burger {
+  background-color: rgb(141, 141, 141);
+  opacity: 0.85;
+  padding: 10px;
+  font-size: 20px;
+}
+
+.change-devoured {
+  color: white;
+  background-color: black;
+  border-color: black;
+  padding: 3px;
+}
+
+.button {
+  color: white;
+  background-color: black;
+  border-color: black;
+  padding:3px;
+}
+
+#new-burger{
+  font-size: 20px;
+  font-weight: bold;
+}
